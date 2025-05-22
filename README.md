@@ -9,6 +9,14 @@ A lightweight Python application with a PyQt5 GUI that displays historical crypt
 - Automatically fetches and displays the historical price in USD.
 - Frameless and transparent GUI design.
 
+## Previwe
+
+- English
+
+
+- Persian
+
+
 ## Prerequisites
 
 - Python 3.x
