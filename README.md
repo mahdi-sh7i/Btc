@@ -12,9 +12,11 @@ A lightweight Python application with a PyQt5 GUI that displays historical crypt
 ## Previwe
 
 - English
+![1](https://github.com/user-attachments/assets/4f3b67e3-26c8-4fce-ae9d-3ad5cf27021f)
 
 
 - Persian
+![2](https://github.com/user-attachments/assets/884bf49c-26f9-4b00-b001-f27889313cc9)
 
 
 ## Prerequisites
